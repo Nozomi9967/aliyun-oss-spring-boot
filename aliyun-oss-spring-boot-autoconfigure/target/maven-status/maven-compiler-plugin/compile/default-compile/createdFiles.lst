@@ -1,0 +1,4 @@
+com\aliyun\oss\AliOSSAutoConfiguration.class
+com\aliyun\oss\enums\OssFileNameEnum.class
+com\aliyun\oss\AliOSSUtil.class
+com\aliyun\oss\AliOSSProperties.class
